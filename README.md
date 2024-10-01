@@ -1,7 +1,7 @@
 
 Python’da Tuple: Değişmeyen Veri Yapılarının Gücü
 
-# Medium Makalem
+# Medium Makalem1
 
 Medium'da yayınladığım makalemi okumak için aşağıdaki linke tıklayabilirsiniz:
 
